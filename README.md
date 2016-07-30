@@ -17,7 +17,7 @@ which consist of all or some of three components - Intimacy, Passion and Commitm
 of love and their constituent components:
 
 | Type of Love | Components
-+--------------+------------
+|--------------|------------
 |  Liking      | Intimacy
 |  Infatuation | Passion
 |  Empty Love  | Commitment
@@ -112,6 +112,8 @@ The mini-project group was: Kal Ahmed, Kasper Apajalahti, Erwin Flitz, Julia Bos
 
 ## References
 
-    * Fehr, B., & Russell, J. A. (1991). The concept of love viewed from a prototype perspective. Journal of Personality and Social Psychology, 60(3), 425.
-    * Regan, P. C., Kocan, E. R., & Whitlock, T. (1998). Ain't love grand! A prototype analysis of the concept of romantic love. Journal of Social and Personal Relationships, 15, 411-420
-    * Sternberg, Robert J. "A triangular theory of love." Psychological review 93.2 (1986): 119.
+* Fehr, B., & Russell, J. A. (1991). The concept of love viewed from a prototype perspective. Journal of Personality and Social Psychology, 60(3), 425.
+
+* Regan, P. C., Kocan, E. R., & Whitlock, T. (1998). Ain't love grand! A prototype analysis of the concept of romantic love. Journal of Social and Personal Relationships, 15, 411-420
+
+* Sternberg, Robert J. "A triangular theory of love." Psychological review 93.2 (1986): 119.
